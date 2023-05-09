@@ -2,6 +2,11 @@
 
 ## team Crossing
 
+[Crossingチームの着手予定など](https://docs.google.com/spreadsheets/d/1i4NlDvtgsjO_IJbzhwmd5qF8L66EUpd_Um7lw2LNYF0/edit?usp=sharing)\
+現在のレーン数は10件です。\
+sprint内でも新規案件着手可能。\
+
+
 
 <!--
 **hirota-kazuma/hirota-kazuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
